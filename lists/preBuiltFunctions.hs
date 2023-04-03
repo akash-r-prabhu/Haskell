@@ -1,0 +1,17 @@
+main = do 
+    print("head gives")
+    print(head [4..10])
+    print("Tail gives")
+    print(tail [4..10])
+    print("Length gives")
+    print(length[4..10])
+    print("init gives - last element removed")
+    print(init [4..10])
+    print("null gives - checks if its list")
+    print(null [4..10])
+
+    print("Boolean functions")
+    print("and gives")
+    print(and [True,False])
+    print("or gives")
+    print(or [True,False])
