@@ -25,6 +25,6 @@ Now read
 - Case
 - Accumulators
 - Recursion
-  </br>from [Here]("functions/recursion.hs")
+  </br>from [Here]("./functions/recursion.hs")
 
 ## Lists
